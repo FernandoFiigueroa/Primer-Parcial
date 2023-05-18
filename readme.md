@@ -172,7 +172,7 @@ y que me recorra lo antes ya explicado mas arriba en la seccion: **Funcion Displ
 La misma asignacion va a hacer si **nivelPrender** == 3, solamente que en este el montacargas no sube de piso, sino que hace totalmente lo contrario.
 
 
-##LINK TINKERCARD :eyes:
+## LINK TINKERCARD :eyes:
 
 * [Tinkercard] (https://www.tinkercad.com/things/6oszydiP1YU)
 
