@@ -12,7 +12,7 @@ Se nos pide armar un modelo de montacarga funcional como maqueta para un hospita
 objetivo es implementar un sistema que pueda recibir ordenes de subir, bajar o pausar
 desde diferentes pisos y muestre el estado actual del montacargas en el display 7 segmentos.
 
-:smiling_imp: ## Funcion Display 7 Segmentos
+## Funcion Display 7 Segmentos :smiling_imp:
 
 ```
 byte numeroDisplay[10][7]= //matriz de 10 filas (numeros) x 7 filas(led)
@@ -172,7 +172,7 @@ y que me recorra lo antes ya explicado mas arriba en la seccion: **Funcion Displ
 La misma asignacion va a hacer si **nivelPrender** == 3, solamente que en este el montacargas no sube de piso, sino que hace totalmente lo contrario.
 
 
-:eyes:  ##LINK TINKERCARD
+##LINK TINKERCARD :eyes:
 
 * [Tinkercard] (https://www.tinkercad.com/things/6oszydiP1YU)
 
