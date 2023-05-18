@@ -174,6 +174,6 @@ La misma asignacion va a hacer si **nivelPrender** == 3, solamente que en este e
 
 ## LINK TINKERCARD :eyes:
 
-*https://www.tinkercad.com/things/6oszydiP1YU
+**https://www.tinkercad.com/things/6oszydiP1YU**
 
 
